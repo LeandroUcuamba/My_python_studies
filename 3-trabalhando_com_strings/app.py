@@ -16,7 +16,7 @@ print(minha_string[3:8])
 print(minha_string.index("TeXto"))
 
 
-print("####################")
+print("\n\n#######################################\n\n")
 
 x = "k" in minha_string
 print(x)
